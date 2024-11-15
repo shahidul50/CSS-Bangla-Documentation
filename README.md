@@ -4375,7 +4375,7 @@
     
     Font Awesome 5 ব্যবহার করার জন্য আমাদের কে আগে [**fontawsome.com**](http://fontawsome.com) এ গিয়ে একটি Account করতে হবে। Account করার পর আমরা একটা Kit-Code সহ Link পাব। এই Link টি HTML **`<head>`** Element এর মধ্যে Add করতে হবে। 
     
-    **`<script src="https://kit.fontawesome.com/*yourcode*.js" crossorigin="anonymous"></script>`**
+    **`<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>`**
     
     এরপর যেকোন HTML Element(like **`<i>`** or **`<span>`** ) এর মধ্যে নির্দিষ্ট  Icon Name, Class এর মধ্যে Add করতে হবে। Example:
     
@@ -4417,7 +4417,7 @@
     
     এছাড়া আমরা চাইলে Font Awesome 4 Library ও ব্যবহার করতে পারি। এইটা ব্যবহার করার জন্য আমাদের একটা CDN Link লাগবে। এই CDN Link টি HTML **`<head>`** Element এর মধ্যে Add করতে হবে।
     
-    **`<link *rel*="stylesheet" *href*="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">`**
+    **`<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">`**
     
     এরপর যেকোন HTML Element(like **`<i>`** or **`<span>`** ) এর মধ্যে নির্দিষ্ট  Icon Name, Class এর মধ্যে Add করতে হবে। Example:
     
